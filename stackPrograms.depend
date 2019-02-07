@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549479948 source:c:\users\user\desktop\bct_y2s1_documents\bct_y2s2_documents\dsa_datastructuresandalgorithmsconsolidated\dst programs\stackprograms\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
