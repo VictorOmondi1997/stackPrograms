@@ -44,7 +44,7 @@ int main()
     int ch;
     Stack st;
 
-    while(1){
+    while(true){
         cout<< "\n1.push \t\t2.pop \n3.display \t4.exit\n\nEnter Your Choice: ";
         cin>>ch;
         switch(ch){
